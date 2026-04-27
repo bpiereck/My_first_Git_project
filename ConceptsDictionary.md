@@ -10,6 +10,12 @@
 
 1. Developing area: My folder where my project is developed.
 
-2.
+2. Staging area: 
 
 3. Local repository: My .git file, where git software is managing all the versions I commit to. 
+
+# From local to remote
+
+- SSH KEY: A way to securely connect to a remote computer/location/server. We add it to github i the setting for ssh key.
+
+- How to create a empty remote repository on github: Add a new repository on github, give it a nice name, DONT ADD any files. Follow the instructions to connect with the local.
