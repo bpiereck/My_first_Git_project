@@ -22,6 +22,16 @@ Sync commands
 `git pull`
 
 
+# creting branches
+
+```
+git branch <new_name>
+
+git checkout <new_name>
+```
+
+`git checkout -b <branch_name>`
+
 
 
 Creating a conflict. I'm a trouble girls.
