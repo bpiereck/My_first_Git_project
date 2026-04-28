@@ -21,3 +21,5 @@
 - How to create a empty remote repository on github: Add a new repository on github, give it a nice name, DONT ADD any files. Follow the instructions to connect with the local.
 
 - I should always sync the changes. Git Push will send changes to my collaborators and to my backup. Git Pull will sync changes that my collaborators sent to github or changes that were done in other instaces. 
+
+new text
