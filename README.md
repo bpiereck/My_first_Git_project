@@ -4,3 +4,5 @@ Here you can find a list of concepts that are fundamental for understading git a
 
 several files at once. 
 
+Simone Corbetta
+
